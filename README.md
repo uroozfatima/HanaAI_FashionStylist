@@ -62,17 +62,6 @@ node server.js
 Open `index.html` in your browser or serve it using Live Server / localhost.
 
 ---
-
-## 📌 Technologies Used
-
-- Node.js
-- Express.js
-- Tailwind CSS
-- JavaScript (Frontend + Backend)
-- LLM API (Localhost)
-
----
-
 ## 🧑‍💻 Created By
 
 **Urooz Fatima**  
